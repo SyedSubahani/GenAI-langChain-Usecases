@@ -1,1 +1,1 @@
-# GenAI-langChain-Usecases
+# Generative AI
